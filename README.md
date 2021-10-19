@@ -1,8 +1,3 @@
 # next base app
-mui5
+Basic NextJS app built with Material UI following [guide](https://www.ansonlowzf.com/create-a-website-with-material-ui-v5-nextjs/ )
 
-https://www.ansonlowzf.com/create-a-website-with-material-ui-v5-nextjs/ 
-
-font aestetico
-webfonts, licensing, google cdn
-https://surajsharma.net/blog/react-material-ui-font-family 
